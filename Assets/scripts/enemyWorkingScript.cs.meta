@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5081b156174e8144fbe03781c9191ac9
+timeCreated: 1497864560
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - laserbean: {fileID: 1785296511637844, guid: e9b6016786cc8364b90b757349fbbf56,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
